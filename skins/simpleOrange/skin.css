@@ -10,7 +10,7 @@
 #player #baseRight{ width:145px;}
 #player .button{  width:22px; }
 #player #pause{ left:32px; }
-#player #play{ background:url(playBtn.png);left:31px; }
+#player #play{ background:url(https://raw.githubusercontent.com/Daymaul/skins/github/skins/simpleOrange/playBtn.png);left:31px; }
 #player #previous{ left:8px; }
 #player #next{ left:55px; }
 #player #title{ left:90px;}
