@@ -3,7 +3,7 @@
 =======
 #player,#player a{ color:#fef3be; }
 >>>>>>> 71057897143edc3b068099ddf97772dfd8fec63b
-#player{ background:url(sizerAndVol.png); background-position: bottom !important;background-repeat: repeat-x !important; }
+#player{ background:url(https://raw.githubusercontent.com/Daymaul/skins/github/skins/simpleOrange/sizerAndVol.png); background-position: bottom !important;background-repeat: repeat-x !important; }
 #player .mainImage{ background:url(main.png); }
 
 #player #baseLeft{ width:188px; }
@@ -25,7 +25,7 @@
 #player #seekerSliderBase{ background-color:#99620B; }
 
 #player #volume{ width:70px; right:33px; }
-#player #volumeSlider{ width:14px; background:url(sizerAndVol.png); }
+#player #volumeSlider{ width:14px; background:url(https://raw.githubusercontent.com/Daymaul/skins/github/skins/simpleOrange/sizerAndVol.png); }
 
 <<<<<<< HEAD
 <<<<<<< HEAD
