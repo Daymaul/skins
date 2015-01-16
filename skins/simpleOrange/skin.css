@@ -4,7 +4,7 @@
 #player,#player a{ color:#fef3be; }
 >>>>>>> 71057897143edc3b068099ddf97772dfd8fec63b
 #player{ background:url(https://raw.githubusercontent.com/Daymaul/skins/github/skins/simpleOrange/sizerAndVol.png); background-position: bottom !important;background-repeat: repeat-x !important; }
-#player .mainImage{ background:url(main.png); }
+#player .mainImage{ background:url(https://raw.githubusercontent.com/Daymaul/skins/github/skins/simpleOrange/main.png); }
 
 #player #baseLeft{ width:188px; }
 #player #baseRight{ width:145px;}
